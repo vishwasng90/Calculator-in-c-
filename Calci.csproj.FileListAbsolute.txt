@@ -1,0 +1,10 @@
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\bin\Debug\Calci.exe.config
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\bin\Debug\Calci.exe
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\bin\Debug\Calci.pdb
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.csproj.AssemblyReference.cache
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.Form1.resources
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.Properties.Resources.resources
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.csproj.GenerateResource.cache
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.csproj.CoreCompileInputs.cache
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.exe
+C:\Users\bhatv\OneDrive\Desktop\.net roadmap\Calculator\Calci\Calci\obj\Debug\Calci.pdb
